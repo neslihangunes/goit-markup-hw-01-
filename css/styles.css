@@ -1,0 +1,103 @@
+.header {
+  width: 1440px;
+  height: 72px;
+  background: #ffffff;
+  position: fixed;
+}
+
+.logo {
+  color: #4d5ae5;
+  width: 44px;
+  height: 21px;
+  font-family: raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 3%;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+
+.logo1 {
+  color: #2e2f42;
+  width: 71px;
+  height: 21px;
+  font-family: raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 3%;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+
+.a {
+  text-align: top(24px);
+  text-align: left(156px);
+}
+
+.Studio {
+  width: 48px;
+  height: 24px;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%2;
+  color: #2e2f42;
+}
+
+.Portfolio {
+  width: 66px;
+  height: 24px;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%2;
+  color: #2e2f42;
+}
+
+.Contacts {
+  width: 67px;
+  height: 24px;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%2;
+  color: #2e2f42;
+}
+
+.nav {
+  width: 261px;
+  height: 24px;
+  text-align: top(24px);
+  text-align: left(347px);
+}
+
+.mail {
+  width: 153px;
+  height: 24px;
+  text-align: top(24px);
+  text-align: left(940px);
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%2;
+  color: #434455;
+}
+
+.tel {
+  width: 151px;
+  height: 24px;
+  text-align: top(24px);
+  text-align: left(1133px);
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%2;
+  color: #434455;
+}
