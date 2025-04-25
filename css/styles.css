@@ -101,3 +101,27 @@
   letter-spacing: 0%2;
   color: #434455;
 }
+
+.h1 {
+  width: 496px;
+  height: 120px;
+  background: #ffffff;
+  justify-content: center;
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 0%2;
+}
+
+.button {
+  width: 105px;
+  height: 24px;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%2;
+  color: #ffffff;
+  vertical-align: middle;
+}
